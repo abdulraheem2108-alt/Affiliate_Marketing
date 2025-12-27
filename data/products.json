@@ -14,6 +14,20 @@
       "rating": 4.5,
       "reviews": 234
     },
+  {
+      "id": "red-heart-round-placemat",
+      "title": "Testing",
+      "description": "Red Heart Round Placemat Embroidered Placemats for Home Kitchen Dining Wedding Valentine (15 in)",
+      "shortDescription": "Red Heart Round Placemat Embroidered Placemats for Home Kitchen Dining Wedding Valentine (15 in)",
+        "image": "https://m.media-amazon.com/images/I/81PKRQy-6yL._AC_SL1500_.jpg",
+        "price": 2798,
+      "originalPrice": 49.99,
+      "affiliateLink": "https://amazon.com/dp/example1",
+      "category": "jewelry",
+      "tags": ["washing machine", "haier", "10kg", "capacity"],
+      "rating": 4.5,
+      "reviews": 234
+    },
     {
       "id": "haier-washing-machine",
       "title": "Haier Washing Machine",
