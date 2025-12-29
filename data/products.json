@@ -22,26 +22,53 @@
         "image": "https://m.media-amazon.com/images/I/71zyBpJ5muL._SL1500_.jpg",
         "price": 169.99,
       "originalPrice": 175.99,
-      "affiliateLink": "https://amazon.com/dp/example1",
+      "affiliateLink": "https://www.amazon.com/Beauty-LED-mask-Multi-wavelength-Rechargeable/dp/B0CSYZ367S/ref=sxin_18_sbv_search_btf?content-id=amzn1.sym.c8b39f81-ded8-4d75-80c2-6dfa03cbb699%3Aamzn1.sym.c8b39f81-ded8-4d75-80c2-6dfa03cbb699&crid=3D4LAB0WGGOOZ&cv_ct_cx=led+face+mask&keywords=led+face+mask&pd_rd_i=B0CSYZ367S&pd_rd_r=36f8828c-ec36-46f9-b5f6-de001f55ca7c&pd_rd_w=4I8Qm&pd_rd_wg=rdUar&pf_rd_p=c8b39f81-ded8-4d75-80c2-6dfa03cbb699&pf_rd_r=C63JXKQ0EM1ZMJGS8F7S&qid=1767002305&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=LED+face+MA%2Caps%2C408&sr=1-1-5190daf0-67e3-427c-bea6-c72c1df98776",
       "category": "beauty",
       "tags": ["LED face mask", "red light therapy", "infrared therapy", "anti aging", "acne treatment"],
       "rating": 4.7,
       "reviews": 203
     },
+   {
+  "id": "beauty-led-face-mask",
+  "title": "Beauty LED Face Mask",
+  "description": [
     {
-      "id": "haier-washing-machine",
-      "title": "Haier Washing Machine",
-      "description": "Haier Washing Machine with 10kg capacity. Perfect for everyday use. Hypoallergenic and tarnish-resistant.",
-      "shortDescription": "Haier Washing Machine with 10kg capacity",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=800&fit=crop",
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "affiliateLink": "https://amazon.com/dp/example1",
-      "category": "jewelry",
-      "tags": ["washing machine", "haier", "10kg", "capacity"],
-      "rating": 4.5,
-      "reviews": 234
+      "heading": "Red & Infrared Light Therapy",
+      "text": "This LED face mask combines visible red light with upgraded near-infrared light to target fine lines, wrinkles, and acne by treating both the skin’s surface and deeper layers."
     },
+    {
+      "heading": "LED Phototherapy for All Skin Types",
+      "text": "Multiple light wavelengths allow customized skincare treatments based on individual needs, making the mask gentle, effective, and suitable for all skin types."
+    },
+    {
+      "heading": "Comfortable Contour Design",
+      "text": "The contoured shape follows the natural curves of the face, ensuring even light coverage while reducing pressure points for a comfortable, irritation-free experience."
+    },
+    {
+      "heading": "Portable & Hands-Free Use",
+      "text": "Lightweight and hands-free, this mask allows easy multitasking—use it while reading, relaxing, or working without interrupting your routine."
+    },
+    {
+      "heading": "Worry-Free Purchase",
+      "text": "Includes a 30-day free return policy and 1-year warranty, making it a reliable choice and a thoughtful gift for anyone focused on healthier, youthful-looking skin."
+    }
+  ],
+  "shortDescription": "Red Light & Infrared Light Therapy Face Mask for Wrinkles",
+  "image": "https://m.media-amazon.com/images/I/71zyBpJ5muL._SL1500_.jpg",
+  "price": 169.99,
+  "originalPrice": 175.99,
+  "affiliateLink": "https://amazon.com/dp/example1",
+  "category": "beauty",
+  "tags": [
+    "LED face mask",
+    "red light therapy",
+    "infrared therapy",
+    "anti aging",
+    "acne treatment"
+  ],
+  "rating": 4.7,
+  "reviews": 203
+}
   
     {
       "id": "elegant-rose-gold-necklace",
