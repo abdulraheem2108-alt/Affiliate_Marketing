@@ -69,7 +69,21 @@
       "tags": ["loreal brow pencil, eyebrow definer, waterproof brow pencil, auburn eyebrow pencil, natural brows, eyebrow makeup, brow shaping, makeup essentials, beauty tools, women beauty"],
       "rating": 4.5,
       "reviews": 54273
-    },    
+    },
+    {
+      "id": "loccitane-shea-butter-hand-cream",
+      "title": "L'OCCITANE 20% Organic Shea Butter Hand Cream for Dry Hands",
+      "description": "Nourish and protect your hands with L'OCCITANE 20% Organic Shea Butter Hand Cream. This fast-absorbing, non-greasy formula deeply moisturizes dry hands while leaving skin soft, smooth, and beautifully conditioned all day.",
+      "shortDescription": "Rich shea butter hand cream for soft, hydrated, and smooth hands.",
+      "image": "https://m.media-amazon.com/images/I/51A5YYSXj0L._SL1200_.jpg",
+      "price": 32.00,
+      "originalPrice": 34.99,
+      "affiliateLink": "https://www.amazon.com/LOccitane-Fast-Absorbing-Shea-Butter-Cream/dp/B006UEOQ5K/?tag=beautfindshub-20",
+      "category": "beauty",
+      "tags": ["loccitane hand cream, shea butter hand cream, dry hands treatment, moisturizing hand cream, non greasy cream, vegan skincare, soft hands care, beauty essentials, skincare routine, women beauty"],
+      "rating": 4.5,
+      "reviews": 20048
+    },        
     {
       "id": "Beauty-LED-mask",
       "title": "Beauty LED mask",
@@ -83,6 +97,20 @@
       "tags": ["LED face mask", "red light therapy", "anti aging"],
       "rating": 4.7,
       "reviews": 203
+    },
+    {
+      "id": "cuccio-cuticle-oil-milk-honey",
+      "title": "Cuccio Naturale Milk and Honey Revitalizing Cuticle Oil",
+      "description": "Restore and hydrate damaged cuticles with Cuccio Naturale Milk and Honey Cuticle Oil. This nourishing, cruelty-free formula helps repair dry skin and thin nails overnight while leaving nails healthy, shiny, and well-conditioned.",
+      "shortDescription": "Hydrating cuticle oil for healthy nails and repaired skin.",
+      "image": "https://m.media-amazon.com/images/I/61snXGu6a-L._SL1500_.jpg",
+      "price": 9.99,
+      "originalPrice": 11.99,
+      "affiliateLink": "https://www.amazon.com/Cuccio-Revitalize-Cuticle-Honey-Ounce/dp/B00F644LTQ/?tag=beautfindshub-20",
+      "category": "beauty",
+      "tags": ["cuccio cuticle oil, nail care oil, hydrating cuticle oil, damaged nails repair, milk and honey oil, nail treatment, beauty nail care, manicure essentials, nail health, women beauty"],
+      "rating": 4.7,
+      "reviews": 129172
     },
     {
       "id": "wonderskin-wonder-blading-bella-masque",
